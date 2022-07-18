@@ -38,3 +38,4 @@
 * [COWOFDOOM ON WUOTE](cowofdoom-on-wuote.md)
 * [PROSTATE\_PlRATE ON WUOTE](prostate\_plrate-on-wuote.md)
 * [WUOTE ON WUOTE](wuote-on-wuote.md)
+* [DUNKORSLAM SPEAKS LATIN](dunkorslam-speaks-latin.md)
