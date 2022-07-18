@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🍝 UNTHINKABLE YET TYPED OUT](README.md)
-* [Noita review 10/10](noita-review-10-10.md)
+* [NOITA REVIEW](noita-review.md)
 * [TYPICAL TWITCH STERAMER](typical-twitch-steramer.md)
 * [AN SOMEONE EXPLAIN](an-someone-explain.md)
 * [SELF-INTORDUCTION](self-intorduction.md)

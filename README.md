@@ -2,6 +2,7 @@
 description: >-
   This is a collection of pastas I wrote over the period of at least
   00000000000000000.1 seconds
+layout: landing
 ---
 
 # 🍝 UNTHINKABLE YET TYPED OUT
