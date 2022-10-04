@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🍝 UNTHINKABLE YET TYPED OUT](README.md)
+* [🍝 OH NO WUOTE IS TYPING…](README.md)
 * [NOITA REVIEW](noita-review.md)
 * [TYPICAL TWITCH STERAMER](typical-twitch-steramer.md)
 * [AN SOMEONE EXPLAIN](an-someone-explain.md)
