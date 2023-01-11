@@ -3,6 +3,7 @@
 * [🍝 OH NO WUOTE IS TYPING…](README.md)
 * [NOITA REVIEW](noita-review.md)
 * [💪 WORKOUT](workout.md)
+* [ENCRYPTED](encrypted.md)
 * [TYPICAL TWITCH STERAMER](typical-twitch-steramer.md)
 * [AN SOMEONE EXPLAIN](an-someone-explain.md)
 * [SELF-INTORDUCTION](self-intorduction.md)
