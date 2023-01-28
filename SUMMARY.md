@@ -2,6 +2,8 @@
 
 * [🍝 OH NO WUOTE IS TYPING…](README.md)
 * [NOITA REVIEW](noita-review.md)
+* [📜 MAGNUM OPUS](magnum-opus.md)
+* [EQUAL OPPORTUNITY](equal-opportunity.md)
 * [💪 WORKOUT](workout.md)
 * [🔐 ENCRYPTED](encrypted.md)
 * [TYPICAL TWITCH STERAMER](typical-twitch-steramer.md)
