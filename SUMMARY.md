@@ -2,6 +2,7 @@
 
 * [🍝 OH NO WUOTE IS TYPING…](README.md)
 * [NOITA REVIEW](noita-review.md)
+* [🎮 Game](game.md)
 * [📜 MAGNUM OPUS](magnum-opus.md)
 * [EQUAL OPPORTUNITY](equal-opportunity.md)
 * [💪 WORKOUT](workout.md)
