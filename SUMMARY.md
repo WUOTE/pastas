@@ -2,6 +2,7 @@
 
 * [🍝 OH NO WUOTE IS TYPING…](README.md)
 * [NOITA REVIEW](noita-review.md)
+* [🦄 UNIQUE](unique.md)
 * [🎮 Game](game.md)
 * [📜 MAGNUM OPUS](magnum-opus.md)
 * [EQUAL OPPORTUNITY](equal-opportunity.md)
@@ -44,4 +45,3 @@
 * [PROSTATE\_PlRATE ON WUOTE](prostate\_plrate-on-wuote.md)
 * [WUOTE ON WUOTE](wuote-on-wuote.md)
 * [DUNKORSLAM SPEAKS LATIN](dunkorslam-speaks-latin.md)
-* [🦄 UNIQUE](unique.md)
