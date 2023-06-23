@@ -1,0 +1,3 @@
+# 💉 ADDICTION
+
+This is an official statement: I've never took any drugs and I never will. My body is my temple, the primary asset -- just like it is for those who stream in the hot tubs section. All those false accusations are very painful -- just like blisters on asmr artists' tongues after a day of hard work. My body is clean and has always been as clean as 3dio's artificial pinnas after vtuber's 4-hour kisses and licks session on twitch. I must admit that I am not perfect, and i have an addiction. I am addicted to positivity and helping others -- just like asmr watchers are addicted to positive affirmations and being called good girls and boys
