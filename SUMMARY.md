@@ -2,6 +2,7 @@
 
 * [🍝 OH NO WUOTE IS TYPING…](README.md)
 * [NOITA REVIEW](noita-review.md)
+* [🤷♂ NORMAL](normal.md)
 * [💉 ADDICTION](addiction.md)
 * [🦄 UNIQUE](unique.md)
 * [🎮 Game](game.md)
