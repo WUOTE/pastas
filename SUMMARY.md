@@ -3,6 +3,7 @@
 * [🍝 OH NO WUOTE IS TYPING…](README.md)
 * [NOITA REVIEW](noita-review.md)
 * [🚾 ZOOM](zoom.md)
+* [💎 Ref](ref.md)
 * [🤷♂ NORMAL](normal.md)
 * [💉 ADDICTION](addiction.md)
 * [🦄 UNIQUE](unique.md)
