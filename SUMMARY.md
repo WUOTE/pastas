@@ -2,6 +2,7 @@
 
 * [🍝 OH NO WUOTE IS TYPING…](README.md)
 * [NOITA REVIEW](noita-review.md)
+* [🛒 Cartel](cartel.md)
 * [🚾 ZOOM](zoom.md)
 * [💎 Ref](ref.md)
 * [🤷♂ NORMAL](normal.md)
