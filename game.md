@@ -1,5 +1,11 @@
-# 🎮 Game
+---
+title: 🎮 Game
+type: docs
+draft: false
+---
 
-```plaintext
+> What is this game? Is it new? Do you like it?
+
+```plaintext {filename="Copy to clipboard"}
 What is this game? Is it new? Do you like it?
 ```

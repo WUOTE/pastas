@@ -1,5 +1,11 @@
-# FLAWLESS, ACCURATE TYPOING
+---
+title: FLAWLESS, ACCURATE TYPOING
+type: docs
+draft: false
+---
 
-```plaintext
+> SOMEONE QUICK SCREENSHOT MY MESSAG WITH ZERO TYPOS
+
+```plaintext {filename="Copy to clipboard"}
 SOMEONE QUICK SCREENSHOT MY MESSAG WITH ZERO TYPOS
 ```
