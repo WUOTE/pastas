@@ -1,4 +1,5 @@
 # THANKS
 
+```plaintext
 THANKS `_____INSERT CHANNEL NAME____` YOURE`____INSERT QUALITY____` TOO
-
+```
